@@ -18,3 +18,12 @@ yarn-error.log
 /.idea
 /.vscode
 /.workbuddy
+
+# 内部工作笔记（只保留在本地）
+/AGENTS.md
+/MEMORY.md
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+*.log
